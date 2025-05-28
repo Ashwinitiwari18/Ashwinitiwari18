@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashwini Tiwari
 
-🎓 Computer Science undergraduate | 💻 Full Stack Developer | 🚀 Passionate about building scalable systems and impactful products
+💻 Full Stack Developer | 🚀 Passionate about building scalable systems and impactful products
 
 ---
 
